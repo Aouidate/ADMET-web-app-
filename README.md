@@ -1,0 +1,2 @@
+# ADMET-web-app-
+  The ADMET (absorption, distribution, metabolism, excretion, and toxicity) properties of your molecules are of vital importance.  The ability to quickly and accurately predict these properties simply from the 2D structure of the molecule is extremely helpful in making decisions that can determine the success of your project.  ADMET Predictor is state of the art ADMET property prediction software.
